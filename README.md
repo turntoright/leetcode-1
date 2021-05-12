@@ -9,6 +9,10 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1857|[Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/) | [C++](./algorithms/cpp/largestColorValueInADirectedGraph/LargestColorValueInADirectedGraph.cpp)|Hard|
+|1856|[Maximum Subarray Min-Product](https://leetcode.com/problems/maximum-subarray-min-product/) | [C++](./algorithms/cpp/maximumSubarrayMinProduct/MaximumSubarrayMinProduct.cpp)|Medium|
+|1855|[Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) | [C++](./algorithms/cpp/maximumDistanceBetweenAPairOfValues/MaximumDistanceBetweenAPairOfValues.cpp)|Medium|
+|1854|[Maximum Population Year](https://leetcode.com/problems/maximum-population-year/) | [C++](./algorithms/cpp/maximumPopulationYear/MaximumPopulationYear.cpp)|Easy|
 |1851|[Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/) | [C++](./algorithms/cpp/minimumIntervalToIncludeEachQuery/MinimumIntervalToIncludeEachQuery.cpp)|Hard|
 |1850|[Minimum Adjacent Swaps to Reach the Kth Smallest Number](https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | [C++](./algorithms/cpp/minimumAdjacentSwapsToReachTheKthSmallestNumber/MinimumAdjacentSwapsToReachTheKthSmallestNumber.cpp)|Medium|
 |1849|[Splitting a String Into Descending Consecutive Values](https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/) | [C++](./algorithms/cpp/splittingAStringIntoDescendingConsecutiveValues/SplittingAStringIntoDescendingConsecutiveValues.cpp)|Medium|
@@ -101,8 +105,12 @@ LeetCode
 |1718|[Construct the Lexicographically Largest Valid Sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/) | [C++](./algorithms/cpp/constructTheLexicographicallyLargestValidSequence/ConstructTheLexicographicallyLargestValidSequence.cpp)|Medium|
 |1717|[Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/) | [C++](./algorithms/cpp/maximumScoreFromRemovingSubstrings/MaximumScoreFromRemovingSubstrings.cpp)|Medium|
 |1716|[Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | [C++](./algorithms/cpp/calculateMoneyInLeetcodeBank/CalculateMoneyInLeetcodeBank.cpp)|Easy|
+|1712|[Ways to Split Array Into Three Subarrays](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/) | [C++](./algorithms/cpp/waysToSplitArrayIntoThreeSubarrays/WaysToSplitArrayIntoThreeSubarrays.cpp)|Medium|
 |1711|[Count Good Meals](https://leetcode.com/problems/count-good-meals/) | [C++](./algorithms/cpp/countGoodMeals/CountGoodMeals.cpp)|Medium|
 |1710|[Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | [C++](./algorithms/cpp/maximumUnitsOnATruck/MaximumUnitsOnATruck.cpp)|Easy|
+|1700|[Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | [C++](./algorithms/cpp/numberOfStudentsUnableToEatLunch/NumberOfStudentsUnableToEatLunch.cpp)|Easy|
+|1695|[Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | [C++](./algorithms/cpp/maximumErasureValue/MaximumErasureValue.cpp)|Medium|
+|1694|[Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/) | [C++](./algorithms/cpp/reformatPhoneNumber/ReformatPhoneNumber.cpp)|Easy|
 |1625|[Lexicographically Smallest String After Applying Operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/) | [C++](./algorithms/cpp/lexicographicallySmallestStringAfterApplyingOperations/LexicographicallySmallestStringAfterApplyingOperations.cpp)|Medium|
 |1624|[Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) | [C++](./algorithms/cpp/largestSubstringBetweenTwoEqualCharacters/LargestSubstringBetweenTwoEqualCharacters.cpp)|Easy|
 |1605|[Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/) | [C++](./algorithms/cpp/FindValidMatrixGivenRowAndColumnSums/FindValidMatrixGivenRowAndColumnSums.cpp)|Medium|
@@ -288,7 +296,7 @@ LeetCode
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [C++](./algorithms/cpp/bestTimeToBuyAndSellStock/BestTimeToBuyAndSellStockWithCooldown.cpp)|Medium|
 |307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [C++](./algorithms/cpp/rangeSumQuery-Immutable/rangeSumQuery-Mutable/RangeSumQueryMutable.cpp)|Medium|
 |306|[Additive Number](https://leetcode.com/problems/additive-number/) | [C++](./algorithms/cpp/additiveNumber/AdditiveNumber.cpp)|Medium|
-|304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [C++](./algorithms/cpp/rangeSumQuery2D-Immutable/RangeSumQuery2dImmutable.cpp)|Medium|
+|304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [C++](./algorithms/cpp/rangeSumQuery2D-Immutable/RangeSumQuery2dImmutable.cpp), [Python](./algorithms/python/rangeSumQuery2D-Immutable/RrangeSumQuery2DImmutable.py), [JS](./algorithms/js/rangeSumQuery2D-Immutable/rangeSumQuery2DImmutable.js)|Medium|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)  | [C++](./algorithms/cpp/rangeSumQuery-Immutable/rangeSumQuery-Immutable.cpp)|Easy|
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [C++](./algorithms/cpp/removeInvalidParentheses/RemoveInvalidParentheses.cpp) |Hard|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)  | [C++](./algorithms/cpp/longestIncreasingSubsequence/longestIncreasingSubsequence.cpp)|Medium|
@@ -541,7 +549,7 @@ LeetCode
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [C++](./algorithms/cpp/addTwoNumbers/addTwoNumbers.cpp)|Medium|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)| [C++](./algorithms/cpp/twoSum/twoSum.cpp), [Go](./algorithms/golang/twoSum/twoSum.go)|Easy|
 
-
+l
 ### LeetCode Shell
 
 
@@ -558,5 +566,6 @@ LeetCode
 |---| ----- | -------- | ---------- |
 |1|[Search in a big sorted array](http://www.lintcode.com/en/problem/search-in-a-big-sorted-array/)|[Java](./algorithms/java/src/searchInABigSortedArray/searchInABigSortedArray.java)|Medium|
 |2|[Search Range in Binary Search Tree](http://www.lintcode.com/en/problem/search-range-in-binary-search-tree/) | [Java](./algorithms/java/src/searchRangeInBinarySearchTree/searchRangeInBinarySearchTree.java)|Medium|
+
 
 
