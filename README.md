@@ -159,7 +159,8 @@ LeetCode
 |976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | [C++](./algorithms/cpp/largestPerimeterTriangle/largestPerimeterTriangle.cpp), [Python](./algorithms/python/LargestPerimeterTriangle/largestPerimeter.py)|Easy|
 |971|[Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/) | [Python](./algorithms/python/FlipBinaryTreeToMatchPreorderTraversal/flipMatchVoyage.py)|Medium|
 |969|[Pancake Sorting](https://leetcode.com/problems/pancake-sorting/) | [Python](./algorithms/python/PancakeSorting/pancakeSort.py)|Medium|
-|968|[Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/) | [JS](./algorithms/js/BinaryTreeCameras/BinaryTreeCameras.js)|Hard|
+|968|[Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/) | [js](./algorithms/js/BinaryTreeCameras/BinaryTreeCameras.js)|Hard|
+|966|[Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) | [js](./algorithms/js/vowelSpellchecker/vowelSpellchecker.js) |Medium|
 |961|[N-Repeated element in size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [C++](./algorithms/cpp/nRepeatedElementInSize2NArray/N-Repeated-Element-in-Size-2N-Array.cpp)|Easy|
 |958|[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | [Python](./algorithms/python/CheckCompletenessOfABinaryTree/isCompleteTree.py)|Medium|
 |951|[Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/) | [Python](./algorithms/python/FlipEquivalentBinaryTrees/flipEquiv.py)|Medium|
