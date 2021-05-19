@@ -224,6 +224,7 @@ LeetCode
 |494|[Target Sum](https://leetcode.com/problems/target-sum/) | [C++](./algorithms/cpp/targetSum/targetSum.cpp)|Medium|
 |477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [C++](./algorithms/cpp/totalHammingDistance/totalHammingDistance.cpp)|Medium|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [C++](./algorithms/cpp/islandPerimeter/IslandPerimeter.cpp)|Easy|
+|462|[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [JS](./algorithms/js/MinimumMovestoEqualArrayElementsII/MinimumMovestoEqualArrayElementsII.js)|Medium|
 |450|[DeleteNodeInABST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Python](./algorithms/python/DeleteNodeInABST/deleteNode.py)|Medium|
 |449|[Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/) | [Python](./algorithms/python/SerializeAndDeserializeBST/serialize.py)|Medium|
 |438|[Find all Anagrams in a string](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [C++](./algorithms/cpp/findAllAnagramsInAString/Find-All-Anagrams-in-a-String.cpp)|Medium|
