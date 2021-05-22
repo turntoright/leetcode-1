@@ -502,7 +502,7 @@ LeetCode
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)| [C++](./algorithms/cpp/spiralMatrix/spiralMatrix.cpp)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| [C++](./algorithms/cpp/maximumSubArray/maximumSubArray.cpp), [Java](./algorithms/java/src/MaxSubArray/MaxSubarray.java)|Medium|
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)| [C++](./algorithms/cpp/nQueens/nQueuens.II.cpp)|Hard|
-|51|[N-Queens](https://leetcode.com/problems/n-queens/)| [C++](./algorithms/cpp/nQueens/nQueuens.cpp)|Hard|
+|51|[N-Queens](https://leetcode.com/problems/n-queens/)| [C++](./algorithms/cpp/nQueens/nQueuens.cpp), [JS](./algorithms/js/N-Queens/N-Queens.js)|Hard|
 |50|["Pow(x, n)"](https://leetcode.com/problems/powx-n/)| [C++](./algorithms/cpp/pow/pow.cpp), [Java](./algorithms/java/src/powXn/PowXn.java)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/anagrams/)| [C++](./algorithms/cpp/anagrams/GroupAnagrams.cpp)|Medium|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)| [C++](./algorithms/cpp/rotateImage/rotateImage.cpp)|Medium|
